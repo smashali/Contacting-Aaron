@@ -1,4 +1,4 @@
-# contact-project
+# contacting Sergiusz Pawlowicz
 Hello Sergiusz Pawlowicz,
 
 I hope you are doing well
