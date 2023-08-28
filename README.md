@@ -23,7 +23,8 @@ Thanks
 
 
 Who am I?
-I am a Web Developer and ML engineer based in New Delhi with a special interest in writing useful contents online and I have been using this for the last 4 years. You can trust me.
+
+I am a Web Developer and ML engineer based in New Delhi with a special interest in writing useful contents online and I have been doing this for the last 4 years. You can trust me.
 My Github Profile: https://github.com/Mashhoodaliyusuf
 My LinkedIn Profile: https://www.linkedin.com/in/real-mashhood-ali
 You can contact me through my mail theeuroworld@gmail.com
