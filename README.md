@@ -4,6 +4,9 @@ I hope you are doing well.
 
 I am Mashood Ali, a web developer based in India.
 
+I tried to contact you through email and on linkedin but
+you haven't replied. I have only left with this means to contact you.
+
 Actually I am looking to either buy your domain name die(DOT)net or to take it on monthly lease. On lease basis, the domain will remain with you and I will pay you on monthly basis for using it.
 
 I am intending to make die(DOT)net a more helpful guide website for developers and coders.
