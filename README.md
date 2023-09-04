@@ -1,31 +1,22 @@
-# contacting Sergiusz Pawlowicz
-Hello Sergiusz Pawlowicz,
+# contacting Aaron Hopkins
+Hello Hopkins
+I hope you are doing well.
 
-I hope you are doing well
+I am Mashood Ali, a web developer based in India.
 
-I tried my best to contact you through various means like linkedIn, websites(random.re) but failed. I tried to start a chat with you from my original github account but you have blocked me.
-Now, i am trying to contact you through this way.
+Actually I am looking to either buy your domain name die(DOT)net or to take it on monthly lease. On lease basis, the domain will remain with you and I will pay you on monthly basis for using it.
 
-The website The Linux Documentation Project is dead now. It seems that you have lost interest in the site.
+I am intending to make die(DOT)net a more helpful guide website for developers and coders.
 
-I have a proposal for the site.
-I want to take the website on lease and want to make it a more useful resource for the developers and coders.
-I will keep the original content as it is and will upload new content in a separate folder keeping the home page as it is (if you want) so that no one will notice that the site owner has changed.
+I will keep the original content and home page as it is (if you want) and will upload new content in a separate folder.
 
-The monthly lease fee for using the domain can be discussed further if you agree on the proposal.
+The monthly lease fee can be discussed further.
 
-The TLDP is like an old garage and all the contents on it are non-updated. It does not serve the demand of today's developer. Why not make some money utilizing it. 
+Kindly reply my email with your opinion on my proposal. Even if you have other proposal or not agree with me, kindly reply to me for my acknowledgement.
 
-Kindly reply to my proposal. Even if you have a different proposal, kindly notify me through my mail.
-I also tried to contact Guylhem Aznar, but failed as he has changed his name and there is no way to contact him.
+Anyway, your domain die(DOT)net is going to expire within a week. Kindly renew it.
+
+
 
 Thanks
-
-
-Who am I?
-
-I am a Web Developer and ML engineer based in New Delhi with a special interest in writing useful contents online and I have been doing this for the last 4 years. You can trust me.
-My Github Profile: https://github.com/Mashhoodaliyusuf
-My LinkedIn Profile: https://www.linkedin.com/in/real-mashhood-ali
-You can contact me through my mail theeuroworld@gmail.com
-
+Mashood Ali
